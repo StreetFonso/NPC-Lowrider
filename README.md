@@ -14,6 +14,7 @@ No arquivo "NPC Lowrider.ini" é possível configurar:
 
 -------------------- Créditos:
 
+Usei como base o "NPC Tuning" do Junior_Djjr.
 GTA3script: thelink2012
 Tutorial de GTA3script: Junior_Djjr
 
