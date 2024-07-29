@@ -113,7 +113,7 @@ SCRIPT_START
 
 	forget:
 	MARK_CHAR_AS_NO_LONGER_NEEDED char
-	MARK_CAR_AS_NO_LONGER_NEEDED hVeh
+	MARK_CAR_AS_NO_LONGER_NEEDED hVeh //Isso precisa de uma solução melhor, pois faz o veículo do Cidinei sumir ao afastar-se.
 //	REMOVE_BLIP hasBlip//test
 	RETURN
 }
